@@ -1,1 +1,1 @@
-#This is the second test
+usethis::use_readme_rmd()
